@@ -1,0 +1,23 @@
+{
+  "name": "galaxybrainvalidator",
+  "version": "1.0.0",
+  "description": "Permet de automatiquement débloquer le Galaxy Brain Achievement avec 2 compte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARKANYOTA/GalaxyBrainValidator.git"
+  },
+  "author": "ARKANYOTA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARKANYOTA/GalaxyBrainValidator/issues"
+  },
+  "homepage": "https://github.com/ARKANYOTA/GalaxyBrainValidator#readme",
+  "dependencies": {
+    "@octokit/core": "^4.0.4",
+    "dotenv": "^16.0.1"
+  }
+}
